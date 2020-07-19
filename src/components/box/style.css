@@ -1,0 +1,30 @@
+*{
+  font-size: large;
+}
+
+.green{
+  background-color: rgba(255, 250, 205, 0.8);
+}
+
+.red {
+  background-color: rgba(240, 128, 128, 0.3);
+}
+
+.box{
+  margin:0 auto;
+  width: 85%;
+  display:flex;
+  flex-direction: column;
+align-items: center;
+}
+h2{
+  margin-bottom: 0.2rem;
+}
+textarea{
+  width: fit-content;
+}
+input{
+  margin-top: 0.2rem;
+  width: fit-content;
+  text-align: center;
+}
